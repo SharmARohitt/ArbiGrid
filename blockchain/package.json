@@ -1,0 +1,15 @@
+{
+  "name": "arbigrid-contracts",
+  "version": "1.0.0",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy:goerli": "hardhat run scripts/deploy.js --network arbitrumGoerli",
+    "deploy:mainnet": "hardhat run scripts/deploy.js --network arbitrumOne"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.26.3"
+  }
+}
