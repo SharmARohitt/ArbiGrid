@@ -41,7 +41,7 @@
 - **Wagmi**: React hooks for Ethereum
 
 ### Web3 Integration
-- **WalletConnect**: Multi-wallet support (Project ID: 3420abb2d235cf12183dc45f00e8f918)
+- **WalletConnect**: Multi-wallet support 
 - **Viem**: TypeScript Ethereum library
 - **Ethers.js**: Ethereum interaction library
 
@@ -170,4 +170,4 @@ The current running instance showcases:
 
 **Built with ❤️ for a sustainable energy future on Arbitrum** 🌱⚡
 
-**Live at**: http://localhost:3001
+**Live at**: arbigrid.vercel.app
